@@ -21,14 +21,14 @@ exclude:
   - Gemfile.lock
   - README.md
 
-ga_analytics: # Add Google Analytics tracking code
+ga_analytics: UA-78238484-6
 
 gems:
   - jekyll-assets
   - jekyll-sitemap
 
-name: tmoji
+name: Tmoji Keyboard
 
 permalink: pretty
 
-url: # Add your site url
+url: http://tmoji.gary-lai.com/
